@@ -215,7 +215,7 @@ focus:
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cao_Nhat_Lam-blue?logo=linkedin)](https://www.linkedin.com/in/nh%E1%BA%A5t-l%C3%A2m-3a506a2a9/)
-[![Email](https://img.shields.io/badge/Email-YOUR_EMAIL-green?logo=gmail)](mailto:lamcaonhat0404@gmail.com)
+[![Email](https://img.shields.io/badge/Email-green?logo=gmail)](mailto:lamcaonhat0404@gmail.com)
 
 ---
 

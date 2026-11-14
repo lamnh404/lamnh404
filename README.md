@@ -1,230 +1,70 @@
-# Hi, I'm Cao Nhat Lam! 👋
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=00D4FF&width=500&lines=☁️+Cloud+%26+DevOps+Engineer;⚙️+Kubernetes+%7C+AWS+%7C+Terraform;🤖+AI+%7C+MLOps+%7C+Data+Engineering;🚀+Automate+Everything.+Version+Everything.)](https://github.com/lamnh404)
+# Cao Nhat Lam
 
-## 🤖 About Me
+**DevOps Engineer @ Stack Tech** · Computer Science (Honors) @ HCMUT
 
-Greetings! I'm **Cao Nhat Lam**, a Computer Science student at **Ho Chi Minh University of Technology (HCMUT)** 🇻🇳, passionate about **DevOps, Cloud Infrastructure, and AI/Data Engineering**. I love building scalable, automated systems and bridging the gap between development and operations.
+*Automate everything. Version everything. Observe everything.*
 
-- 🎓 Studying at **HCMUT — Bach Khoa Ho Chi Minh**
-- 🔭 Currently working on **multi-cluster Kubernetes platforms on AWS EKS** with GitOps
-- 🌱 Learning **LLMOps** — deploying & fine-tuning large language models at scale
-- 🛠 Building **AI-powered data pipelines** with Airflow + Spark + LangChain
-- 💡 Interested in **Infrastructure as Code**, **observability**, and **platform engineering**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nh%E1%BA%A5t-l%C3%A2m-3a506a2a9/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lamcaonhat0404@gmail.com)
+[![AWS SAA](https://img.shields.io/badge/AWS_SAA--C03-986%2F1000-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/2d54f4f8-12c5-4fa9-8678-cea56213756c/public_url)
 
-## Study at
-
-<a href="https://hcmut.edu.vn/">
-  <img src="https://hcmut.edu.vn/img/nhanDienThuongHieu/01_logobachkhoasang.png" width="20%" alt="HCMUT">
-</a>
-
----
-
-## ⚙️ Tech Skills
-
-### ☁️ Cloud & Infrastructure
-<div>
-  <table>
-    <tr>
-      <th>AWS</th>
-      <th>Terraform</th>
-      <th>Ansible</th>
-      <th>Linux</th>
-    </tr>
-    <tr>
-      <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40%">
-      </td>
-      <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="40%">
-      </td>
-      <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width="40%">
-      </td>
-      <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40%">
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🐳 Container & Orchestration
-<div>
-  <table>
-    <tr>
-      <th>Kubernetes</th>
-      <th>Docker</th>
-      <th>Helm</th>
-    </tr>
-    <tr>
-      <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="Kubernetes" width="40%">
-      </td>
-      <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40%">
-      </td>
-      <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" width="40%">
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🔁 CI/CD & Automation
-<div>
-  <table>
-    <tr>
-      <th>GitHub Actions</th>
-      <th>GitLab CI</th>
-      <th>Jenkins</th>
-      <th>Git</th>
-    </tr>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40%">
-      </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab CI" width="40%">
-      </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40%">
-      </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40%">
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 📊 Monitoring & Observability
-<div>
-  <table>
-    <tr>
-      <th>Prometheus</th>
-      <th>Grafana</th>
-    </tr>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="40%">
-      </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="40%">
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🤖 AI / ML / LLMOps
-<div>
-  <table>
-    <tr>
-      <th>Python</th>
-      <th>PyTorch</th>
-      <th>HuggingFace</th>
-    </tr>
-    <tr>
-      <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40%">
-      </td>
-      <td align="center" width="20%">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40%">
-      </td>
-      <td align="center" width="20%">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="40%">
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-### 🗃️ Databases
-<div>
-  <table>
-    <tr>
-      <th>PostgreSQL</th>
-      <th>MySQL</th>
-      <th>MongoDB</th>
-      <th>Redis</th>
-    </tr>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40%">
-      </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40%">
-      </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40%">
-      </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40%">
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
 
-## 🏅 Licenses & Certifications
+### About me
 
-| | Certification | Status |
-|:---:|---|:---:|
-| ☁️ | AWS Certified Solutions Architect – Associate | 🎯 In Progress |
-| ☁️ | AWS Certified DevOps Engineer – Professional | 🎯 In Progress |
-| ⚙️ | Certified Kubernetes Administrator (CKA) | 🎯 In Progress |
-| ⚙️ | Certified Kubernetes Application Developer (CKAD) | 📅 Planned |
-| 🔐 | AWS Certified Security – Specialty | 📅 Planned |
-| 📊 | AWS Certified Data Engineer – Associate | 📅 Planned |
+- ☁️ Running **AWS + Kubernetes (EKS)** infrastructure across production, UAT, staging and dev at **Stack Tech**
+- 🔁 Shipping with **GitOps**: GitLab CI → Helm → Argo CD / Argo Rollouts
+- 📊 Building observability with **Grafana, Loki, Mimir, Tempo, OpenTelemetry**
+- 🎯 Goal: grow into a **Site Reliability / Platform Engineer**
+- 📖 Currently preparing for **CKA**
 
----
+### Experience
 
-## 🚀 Currently Working On
+| Role | Company | Period |
+|---|---|---|
+| DevOps Engineer | **Stack Tech** | Jul 2026 – Present |
+| Cloud Intern | **Viettel Digital Talent** | Mar 2026 – Jul 2026 |
 
-```yaml
-focus:
-  - 🔭 Multi-cluster Kubernetes platform on AWS EKS with ArgoCD GitOps
-  - 🤖 LLMOps pipeline — deploying & fine-tuning LLMs at scale
-  - 🛠  AI-powered data pipeline: Airflow + Spark + LangChain
-  - 📖 Preparing for AWS SAP & CKA certifications
-  - 📝 Writing technical blog posts on DevOps & Cloud-native topics
-```
+### Tech stack
 
----
+| Area | Tools |
+|---|---|
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **IaC** | ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Terragrunt](https://img.shields.io/badge/Terragrunt-565AE1?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) |
+| **Containers** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) ![Karpenter](https://img.shields.io/badge/Karpenter-FF9900?style=flat-square) ![KEDA](https://img.shields.io/badge/KEDA-0062CC?style=flat-square) |
+| **CI/CD & GitOps** | ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white) ![Argo Rollouts](https://img.shields.io/badge/Argo_Rollouts-EF7B4D?style=flat-square&logo=argo&logoColor=white) |
+| **Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white) ![Mimir](https://img.shields.io/badge/Mimir-F46800?style=flat-square&logo=grafana&logoColor=white) ![Tempo](https://img.shields.io/badge/Tempo-F46800?style=flat-square&logo=grafana&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white) |
+| **Security** | ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white) ![Gitleaks](https://img.shields.io/badge/Gitleaks-D73A49?style=flat-square) ![Checkov](https://img.shields.io/badge/Checkov-5A2D82?style=flat-square) ![Kyverno](https://img.shields.io/badge/Kyverno-1E90FF?style=flat-square) ![External Secrets](https://img.shields.io/badge/External_Secrets-4B8BBE?style=flat-square) |
+| **Languages** | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 
-## 📊 GitHub Stats
+### Featured project
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lamnh404&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamnh404&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+**[GitOps Platform on AWS EKS](https://github.com/lamnh404/spring-petclinic-microservices-cd)** — runs the Spring PetClinic microservices end-to-end on EKS
 
-<p align="center">
-  <img width="1024" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=lamnh404&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D">
-</p>
+- Terraform + Terragrunt for multi-env VPC / EKS / IAM
+- GitLab CI with security gates (Trivy, Gitleaks, Checkov)
+- Helm + Argo CD, canary releases with Argo Rollouts and automated rollback
+- Secrets via External Secrets Operator + AWS Secrets Manager (EKS Pod Identity), policies via Kyverno
+- Metrics/logs/traces with Prometheus, Loki, Tempo and OpenTelemetry; SLO burn-rate alerts
+- Karpenter on Spot, k6 load tests, Velero backup/restore drills
 
----
+Related repos: [`Petclinic_HelmChart`](https://github.com/lamnh404/Petclinic_HelmChart) · [`gitops-demo`](https://github.com/lamnh404/gitops-demo)
 
-## 🏗️ Featured Projects
+### Certifications
 
+| Certification | Result | Date |
+|---|---|---|
+| [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/2d54f4f8-12c5-4fa9-8678-cea56213756c/public_url) | 986 / 1000 | 05/2026 |
+| TOEIC Listening & Reading | 860 / 990 | 10/2026 |
+| Certified Kubernetes Administrator (CKA) | In progress | — |
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lamnh404&repo=Tutor-Support-System&theme=tokyonight)](https://github.com/lamnh404/Tutor-Support-System)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lamnh404&repo=Super-Mario-Deployment&theme=tokyonight)](https://github.com/lamnh404/Super-Mario-Deployment)
+### GitHub stats
 
----
-
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cao_Nhat_Lam-blue?logo=linkedin)](https://www.linkedin.com/in/nh%E1%BA%A5t-l%C3%A2m-3a506a2a9/)
-[![Email](https://img.shields.io/badge/Email-green?logo=gmail)](mailto:lamcaonhat0404@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00D4FF/lamnh404" alt="lamnh404's GitHub Contribution Graph" />
-</p>
-
----
-
-## 📝 Feedback & Contributions
-
-I appreciate any feedback, contributions, or collaboration. Feel free to open an issue or pull request on any of my projects. Let's build something great together. 🚀
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lamnh404&show_icons=true&hide_border=true&count_private=true&theme=github_dark" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamnh404&layout=compact&langs_count=6&hide_border=true&theme=github_dark" alt="Top languages" />
+</div>

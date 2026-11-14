@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0ea5e9,100:4f46e5&text=Cao%20Nhat%20Lam&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=DevOps%20Engineer%20%C2%B7%20AWS%20%C2%B7%20Kubernetes&descAlignY=58&descSize=18" width="100%" alt="Cao Nhat Lam - DevOps Engineer" />
 
 - 🛠️ **DevOps Engineer** at **Stack Tech**, running AWS + EKS across prod, UAT, staging and dev
-- 🎓 Computer Science (Honors) at **HCMUT**, GPA 3.85/4.0
+- 🎓 Computer Science (Honors) at **HCMUT**
 - 🔁 Shipping with GitOps: **GitLab CI → Helm → Argo CD / Argo Rollouts**
 - 📊 Observability with **Grafana, Loki, Mimir, Tempo, OpenTelemetry**
 - ☁️ **AWS Solutions Architect – Associate** (986/1000), now preparing for **CKA**
